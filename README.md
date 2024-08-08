@@ -6,3 +6,5 @@ Bank Management System project is written in Python. The project file contains a
 Talking about the features of the Bank Management System, a user can create an account by providing the name of the account holder, number, selecting amount type (Saving account or Current account) and providing an initial amount more than or equal to 500. Then the user can also deposit and withdraw money just by providing his/her account and entering the amount. For certain purpose, he/she can also check for the balance inquiry which displays the account number and amount. He/she can also view all the account holder’s list. Another feature is that he/she can modify their account detail and type if they want to.
 
 This simple console based Bank Management system provides the simplest management of bank account and transaction. In short, this projects mainly focus on CRUD. There’s an external database connection file used in this mini project to save user’s data permanently.
+
+Project Report Documentation = ## https://1drv.ms/w/s!AgR45_a2_8vhgVgb3RUZa9kRbGcK?e=wYhaiG
